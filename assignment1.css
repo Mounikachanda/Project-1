@@ -1,0 +1,132 @@
+body
+{
+background-color: navy;
+font-family: georgia;
+color: white;
+}
+.header
+{
+width:1000px;
+margin: auto;
+height: 80px;
+margin-top: 60px;
+background-color: #394166;
+}
+ul
+{
+ list-style-type: none;
+ }
+ li{
+ float:left;
+ padding-right: 90px;
+ Padding-top: 30px;
+ }
+ .one
+{
+float:left;
+width: 250px;
+height:350px;
+margin-left: 130px;
+margin-top:20px;
+background-color: #394166;
+}
+.box
+{
+padding-bottom: 20px;
+padding-top: 20px;
+padding-left: 10px;
+border-bottom: 1px solid black;
+}
+.two
+{
+position: absolute;
+float:left;
+width: 300px;
+height: 380px;
+margin-left: 400px;
+margin-top: 20px;
+background-color: #394166;
+}
+.info
+{
+text-align: center;
+padding-top: 100px;
+}
+#l1,#l2,#l3
+{
+width:100px;
+height:5px;
+}
+#l1
+{
+background-color:yellow;
+float:left;
+}
+#l2
+{
+background-color: #018287;
+float:left;
+}
+#l3
+{
+background-color:#b4394d;
+float:left;
+}
+#l4,#l5,#l6
+{
+padding-top: 30px;
+height:50px;
+width: 100px;
+float:left;
+text-align:center;
+}
+.weather
+{
+position:absolute;
+float:right;
+width: 300px;
+height: 200px;
+margin-left: 400px;
+margin-top: 415px;
+background-color: #B4394D;
+}
+.newsletter
+{
+width:410px;
+float:left;
+height: 250px;
+position:absolute;
+margin-top:20px;
+margin-left:720px;
+background-color: #394166;
+text-align: center;
+padding-top:80px;
+}
+ .month
+{
+float:left;
+position: absolute;
+width: 250px;
+height:250px;
+margin-left: 130px;
+padding-top:20px;
+margin-top:390px;
+background-color: #394166;
+}
+.social
+{
+width: 410px;
+height: 180px;
+float: left;
+padding-top: 60px;
+text-align: center;
+background-color: #394166;
+margin-top: 370px;
+margin-left: 340px;
+}
+.fb
+{
+  height: 50px;
+  padding-bottom: 0px;
+   background-color: #3B5998;
+}
